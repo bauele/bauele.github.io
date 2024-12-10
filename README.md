@@ -1,5 +1,5 @@
 ﻿# bauele.github.io
- If you're interested in seeing my other work, please visit my main [portfolio website](https://bauele.com)
+ If you're interested in seeing my other work, please visit my main [portfolio website](https://bauele.com).
 
  ## Professional self-assessment
  TODO
@@ -19,4 +19,8 @@ The repository for my original artifact can be found [here](https://github.com/b
 ## Informal Code Review
 [Code Review](https://trackr.bauele.com/external/code_review.mp4) - In this video, I first introduce the artifact that I initially created for the final project of my CS-360 Mobile Architecture and Programming course. I identify the current functionality of the application, then I dive into the specifics on how some of those features work. I also discuss what type of improvements I will be making for the enhanced artifact, as well as how I might go about developing those improvements. 
 
-## Improved Artifact
+## Enhanced Artifact
+View the [live demo](https://trackr.bauele.com/).
+
+
+The repository for the enhanced artifact can be found [here](https://github.com/bauele/trackr). It contains all of the code for the project viewable directly on GitHub.

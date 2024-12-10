@@ -1,5 +1,4 @@
-﻿# bauele.github.io
- If you're interested in seeing my other work, please visit my main [portfolio website](https://bauele.com).
+If you're interested in viewing my other work, please visit my main [portfolio website](https://bauele.com).
 
 ## Professional self-assessment
 Enhancing my artifact during the course has allowed me to demonstrate my skills as a software engineer and web developer. Here are some of the ways that I have done so:

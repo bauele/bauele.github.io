@@ -16,14 +16,13 @@ For this category, I focused on creating an attractive, responsive user interfac
 ### Data structures and algorithms
 In order for me to properly work with my data, I had to create data structures representing the shape of it. This allowed me to easily store and retrieve item and account data from the databases and make use of them in my application. I also needed to make use of sorting algorithms so that the user could sort the items on their dashboard page in a variety of different ways to fit their needs. 
 
-
 ### Databases
 Nearly every web application demands some sort of data persistence, as well as the ability to modify or delete data. I used Google Firestore to store user data in the cloud, thereby allowing users to access their account and data from any device. While interacting with the dashboard page, users are able to add items, edit items, and delete them altogether.
 
 ### Security
 Security is a very important area of focus for any software project. In order to provide account services to users while maintaining a high level of security, I opted to make use of Google Authentication and Google Firestore. By doing so, I removed the need for me to store any personal information on my own servers. Instead, my user credentials and database information would be maintained by a company with more security measures than I could reasonably implement in my own project. 
-Below I have included both the original and enhanced artifacts, as well as narrative documents fully explaining each enhancement that was made. I’ve chosen to use the same project for all enhancement categories, which demonstrates my ability to create an attractive, user-friendly, fully functional full-stack web application. 
 
+Below I have included both the original and enhanced artifacts, as well as narrative documents fully explaining each enhancement that was made. I’ve chosen to use the same project for all enhancement categories, which demonstrates my ability to create an attractive, user-friendly, fully functional full-stack web application. 
 
 ## Enhancement Narratives
 The following documents explain my previous artifact's performance in each category, as well as the steps that I took to add each enhancement. I also detail what challenges I may have faced along the way and how I overcame them. 

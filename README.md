@@ -5,11 +5,13 @@
  TODO
 
  ## Enhancement Narratives
- [Narrative 1 - Software Engineering]() - TODO
+The following documents explain my previous artifact's performance in each category, as well as the steps that I took to add each enhancement. I also detail what challenges I may have faced along the way and how I overcame them. 
  
- [Narrative 2 - Data Structures and Algorithms]() - TODO
+ [Narrative 1 - Software Engineering and Design](https://trackr.bauele.com/external/narrative_software_engineering_and_design.docx)
  
- [Narrative 3 - Databases]() - TODO
+ [Narrative 2 - Algorithms and Data Structures](https://trackr.bauele.com/external/narrative_algorithms_data_structures.docx)
+ 
+ [Narrative 3 - Databases](https://trackr.bauele.com/external/narrative_databases.docx)
 
 ## Original Artifact
 TODO

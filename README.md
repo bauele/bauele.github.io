@@ -1,10 +1,10 @@
 ﻿# bauele.github.io
  If you're interested in seeing my other work, please visit my main [portfolio website](https://bauele.com).
 
- ## Professional self-assessment
- TODO
+## Professional self-assessment
+TODO
 
- ## Enhancement Narratives
+## Enhancement Narratives
 The following documents explain my previous artifact's performance in each category, as well as the steps that I took to add each enhancement. I also detail what challenges I may have faced along the way and how I overcame them. 
  
  [Narrative 1 - Software Engineering and Design](https://trackr.bauele.com/external/narrative_software_engineering_and_design.docx)
